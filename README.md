@@ -62,19 +62,16 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 
 ---
 
-## 📈 GitHub Stats
-
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kishor-Kumhar&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://streak-stats.demolab.com?user=Kishor-Kumhar&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kishor-Kumhar&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Kishor-Kumhar&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishor-Kumhar&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishor-Kumhar&layout=compact&theme=tokyonight" height="150"/>
 </p>
-
 
 
 ---
