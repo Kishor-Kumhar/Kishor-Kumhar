@@ -24,9 +24,9 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 ## 🤝 Connect With Me
 
 <p>
-<a href="https://twitter.com/mdmusharraf77"><img width="35" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/></a>
-<a href="https://linkedin.com/in/md-musharraf-9172901a3"><img width="35" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
-<a href="https://www.instagram.com/its_musharraf_000"><img width="35" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/></a>
+<!-- <a href="https://twitter.com/mdmusharraf77"><img width="35" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/></a> -->
+<a href="https://www.linkedin.com/in/kishor06/"><img width="35" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
+<a href="https://www.instagram.com/the.kishor06"><img width="35" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/></a>
 </p>
 
 ---
